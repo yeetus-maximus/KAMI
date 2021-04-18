@@ -1,6 +1,6 @@
 # KAMI
-[![Build](https://github.com/zeroeightysix/KAMI/workflows/Fabric%20mod%20jar%20build/badge.svg)](https://github.com/zeroeightysix/KAMI/actions)
-[![Issues](https://img.shields.io/github/issues/zeroeightysix/kami.svg)](https://github.com/zeroeightysix/kami/issues)
+[![Build](https://github.com/zeroeightysix/KAMI/workflows/Fabric%20mod%20jar%20build/badge.svg)](https://github.com/yeetus-maximus/KAMI)
+[![Issues](https://img.shields.io/github/issues/zeroeightysix/kami.svg)](https://github.com/yeetus-maximus/kami/issues)
 [![Discord](https://img.shields.io/badge/chat-on%20discord-brightgreen.svg)](http://discord.gg/9hvwgeg)
 
 ## A Minecraft utility mod for anarchy servers.
