@@ -91,7 +91,7 @@ object Wizard {
     }
 
     private fun showWizard(pages: List<() -> Unit>) {
-        openPopup("KAMI wizard")
+        openPopup("Ur mother is the KAMI wizard")
         setNextWindowPos(
             ImGui.getIO().displaySizeX * 0.5f,
             ImGui.getIO().displaySizeY * 0.5f,
@@ -129,7 +129,7 @@ object Wizard {
     // Setup pages
 
     private fun welcomePage() {
-        text("Welcome to KAMI!")
+        text("Welcome to KAMI! I hav eaten ")
         text("This wizard is going to take you through setting up the GUI to your liking.")
         dummy(10f, 10f)
         text("Everything set by the wizard can be manually changed later through the Settings menu.")
